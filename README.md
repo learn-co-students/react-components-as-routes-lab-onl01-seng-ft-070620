@@ -6,7 +6,7 @@ In this lab, you will create a simple Client-Side routing application with
 __React Router__.
 
 ## Objectives
-
+ 
 * Practice building an application with __React Router__
 * Access routes using a Navbar with matched routes
 * Visit different "views" in the application by accessing different routes
